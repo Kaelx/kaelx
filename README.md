@@ -5,17 +5,6 @@
   <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaelx&theme=transparent&size_weight=0.5&count_weight=0.5&text_color=434d58" alt="MOST USED LANGUAGES">
 </div>
 
-<!-- Add the following style block at the end of your README.md -->
+<!-- Add the following badges at the end of your README.md -->
 
-<style>
-  @media (prefers-color-scheme: dark) {
-    body {
-      color: white;
-    }
-  }
-  @media (prefers-color-scheme: light) {
-    body {
-      color: black;
-    }
-  }
-</style>
+![Text Color](https://img.shields.io/badge/text_color-white-white?style=flat-square&logo=github)
