@@ -2,7 +2,7 @@
 
 <table>
     <tr>
-        <td valign="middle" width="60%">
+        <td width="60%">
             <h3>About Me</h3>
             <h4>&nbsp;&nbsp;&nbsp;&nbsp;I am a newbie in terms of coding and still in the process of learning new things. I can provide clean code and simple design and make interactive with basic animations and responsive design makes accessible to all users.</h4></td>
         <td valign="middle" width="40%" align="center">
