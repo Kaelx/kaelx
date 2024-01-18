@@ -6,9 +6,3 @@
         <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaelx&layout=compact&theme=dark" />
     </a>
 </p>
-
-<p align="center">
-    <a href="https://github.com/Kaelx">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kaelx&theme=dark" />
-    </a>
-</p>
