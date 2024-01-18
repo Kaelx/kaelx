@@ -1,7 +1,7 @@
 # Hello, I'm Kael <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" width="30px">
 
-<table valign="middle">
-    <tr>
+<table>
+    <tr valign="middle">
         <td valign="middle" width="50%">
             <h2>About Me</h2>
             <h3>&nbsp;&nbsp;&nbsp;&nbsp;I am a newbie in terms of coding and still learning new things. I can provide clean code and simple design. I also make interactive with basic animations and responsive design makes accessible to all users.</h3></td>
