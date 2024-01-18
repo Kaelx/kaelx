@@ -1,7 +1,14 @@
 # Hello, I'm Kael 👋
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kaelx&size_weight=0.5&count_weight=0.5)
+<p align="center">
+    <a href="https://github.com/Kaelx">
+        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Kaelx&show_icons=true&theme=dark" />
+        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaelx&layout=compact&theme=dark" />
+    </a>
+</p>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Kaelx)
-
-![Kael's github stats](https://github-readme-stats.vercel.app/api?username=Kaelx&show_icons=true&theme=radical)
+<p align="center">
+    <a href="https://github.com/Kaelx">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kaelx&theme=dark" />
+    </a>
+</p>
