@@ -1,2 +1,2 @@
 # Hello, I'm Kael 👋
-<img src="https://camo.githubusercontent.com/ed4e680313eae45f3a28bd052702de6fc7117991780363b914108e77b9d27a7b/68747470733a2f2f64756570792d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d6e617468616e69656c6b61746573696d6f6e267468656d653d7472616e73706172656e7426686964655f626f726465723d7472756526686964655f7469746c653d74727565" alt="asdadasd" data-canonical-src="https://duepy-stats.vercel.app/api/top-langs/?username=Kaelx&amp;theme=transparent&amp;hide_border=true&amp;hide_title=true" style="max-width: 100%;">
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kaelx&size_weight=0.5&count_weight=0.5)
