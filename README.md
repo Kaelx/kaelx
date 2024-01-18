@@ -1,6 +1,6 @@
 # Hello, I'm Kael <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" width="30px">
 
-<table>
+<table valign="middle">
     <tr>
         <td valign="middle" width="50%">
             <h2>About Me</h2>
