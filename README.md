@@ -1,6 +1,6 @@
 # Hello, I'm Kael 👋
 
-<div alight="right">
+<div align="right">
   <img src="https://github-readme-stats.vercel.app/api?username=Kaelx&theme=transparent&show_icons=true&hide=contribs&text_color=434d58&rank_icon=github" alt="STATS">
 </div>
 
