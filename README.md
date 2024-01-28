@@ -2,7 +2,7 @@
 
 <table>
     <tr>
-        <td valign="middle" width="60%">
+        <td width="60%">
             <h3>About Me</h3>
             <h4>&nbsp;&nbsp;&nbsp;&nbsp;I am a novice programmer and still in the process of learning new things. I'm a curious college student exploring the world of programming. Join me on my adventure as I code, learn, and create!</h4>
         </td>
