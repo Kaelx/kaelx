@@ -1,4 +1,4 @@
-# Hello, I'm Kael <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" width="30px"> ![](https://komarev.com/ghpvc/?username=your-github-username)
+# Hello, I'm Kael <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" width="30px"> ![](https://komarev.com/ghpvc/?username=Kaelx)
 
 <table>
     <tr>
