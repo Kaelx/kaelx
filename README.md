@@ -1,9 +1,4 @@
-# Hello, I'm Kael <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" width="30px">
-
-<a href="https://youtube.com/shorts/SXHMnicI6Pg?feature=share" rel="nofollow">
-  <img align="right" alt="Braydon's Facebook" width="32px" src="https://user-images.githubusercontent.com/47686437/168548113-b3cd4206-3281-445b-b7c6-bc0a3251293d.png" style="max-width: 100%;">
-</a>
-
+# Hello, I'm Kael <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" width="30px"> <a href="https://youtube.com/shorts/SXHMnicI6Pg?feature=share" rel="nofollow"><img align="right" alt="Braydon's Facebook" width="32px" src="https://user-images.githubusercontent.com/47686437/168548113-b3cd4206-3281-445b-b7c6-bc0a3251293d.png" style="max-width: 100%;"></a>
 <table>
     <tr>
         <td width="60%">
