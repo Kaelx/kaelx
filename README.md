@@ -2,4 +2,4 @@
 I am a novice programmer and still in the process of learning new things. I'm a BSIT college student exploring the world of programming. Join me on my adventure as I code, learn, and create!
 
 ![wew](https://github-readme-stats.vercel.app/api?username=Kaelx&show_icons=true&theme=transparent&hide_border=true&)
-![wews](https://github-readme-stats.vercel.app/api/top-langs/?username=Kaelx&bg_color=00000000&theme=transparent&size_weight=0.5&count_weight=0.5&text_color=434d58&hide_border=true)
+![wews](https://github-readme-stats.vercel.app/api/top-langs/?username=Kaelx&bg_color=00000000&theme=transparent&size_weight=0.5&count_weight=0.5&text_color=434d58&hide_border=true&hide_title=true)
